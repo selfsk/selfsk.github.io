@@ -33,23 +33,14 @@ To get a license to teach CMSP, you need to go through:
  
  * Need to "shadow" instructors for both, classroom and range lessons, as much as possible.
 
+You can read more information on (CMSP site)[]
 
 ## My experience
 
 After I did a couple of "shadow" lessons I've decided to give it a try and enrolled in basic and intermediate courses, unfortunately (or fortunately, depends on point of view) couldn't sign up because of other matters (not related). 
 
-I observed few things which I would consider a "red flag" while "shadowing" other instructors (I will outline those later), but decided to give a try anyway. 
+I observed few things which I would consider a "red flag" while "shadowing" other instructors, but decided to give a try anyway. 
 
-My BRC first day was supposed to be raining, usually it's not a big thing, I had some share of riding in the rain - both on street and track. But that one wasn't great, so I decided actually dropped whole thing completely, and here is my reasoning:
-
- * new riders shouldn't be _learning_ how to ride a motorcycle in the rain. new riders already overwhelmed with amount of information and experience, what's the reason to add a huge variable (rain) in the mix is beyond my understanding.
- * organization of whole process was bad:
-   - instructors didn't put a canopy(ies), so riders don't have to stand in rain while instructor explains things...
-   - instructor didn't give me a rug to wipe seat from rain, and said "it is part of riding experience"... **news flash - it's not!**. Smart rider probably would try to avoid getting in the rain in first place!
-   - keep in mind we're not talking about riding, we're talking about sitting, standing and moving with 5mph (10mph tops) for 4 hours!
-   - I didn't want to spend 4 hours in the rain, just because.
-
-So, after this awesome experience I decided it's not worth it - and simply bailed. But I did have a luxury to do so, I don't need to go through this miserable experience to get M1 because I have it already! I can not say the same for the rest of group, but I'm 100% at least couple of them were thinking the same...
 
 ## Red flags
 
