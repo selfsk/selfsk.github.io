@@ -10,18 +10,19 @@ permalink: /about/
 
 Hello,
 
-My name is Sergei, I like computers, motorcycles and health(mental, physicall) related topics.
+My name is Sergei(pronounce like [Ser-Gay](https://www.quora.com/How-do-Russians-pronounce-the-name-spelt-Sergei)), I like computers, motorcycles and health related topics.
 
-My life is deeply intertwined with computers for couple decades and recently I've picked up new passion - motorcycling. 
+My life has been deeply intertwined with computers for couple decades, so far, and recently I've picked up a new passion - motorcycling. 
+
 Now I'm trying to figure how to use knowledge that I've accumulated in various areas of my life and apply to things that I believe are important:
  * make computers work better
- * make people live healthy
  * make riders be safer out there
+ * make people live healthy
  
  
-My "wisdom" collecton: (mostly thoughts that I think make sense and help me navigate through various experiences)
- * Life begins at the end of your comfort zone - this blog is part of it. 
- * State of your mind is reflection on the world - having control of that state might help you achieve great results
- * Find your rythm of life - to be able to plan ahead
- * Follow your passion - with passion person can achieve imppossible things
+My "wisdom" collection: (mostly thoughts that I think make sense and help me navigate through various experiences)
+ * Life begins at the end of your comfort zone - this blog is part of it
+ * State of your mind is reflection on the world - having control of that state might help achieve great results
+ * Find your rhythm of life - to be able to plan ahead
+ * Follow your passion - with passion, person can achieve impossible things
 
