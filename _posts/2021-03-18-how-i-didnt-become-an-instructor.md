@@ -7,17 +7,17 @@ categories: motorcycles education learning
 
 Recently I've attempted (yes, attempted) to get a [CMSP](https://cmsp.msi5.com/) (California Motorcyclist Safety Program) certification, to get a better understanding how people are getting prepared to ride a motorcycle.
 
-I didn't go through, mostly because what I've seen and heard so far just make me worry about rider's safety and my internal conflict person just can not let it slide.
+I didn't go through, mostly because what I've seen and heard so far just makes me worry about rider's safety and my internal conflict person just can not let it slide.
 
 ## My background
 
-I've been riding for 5 years so far, not much in terms of time, but in that time I was able to put about 100k miles, doing various things - from commuting to participate in racing. 
+I've been riding for 5 years so far, not much in terms of time, but in that time I was able to put about 100k miles, doing various things - from commuting to participation in racing. 
 
-I never did a basic riding course, and was learning things on my own from books and videos available (semi)publicly on internet (see [Links](#Links) at the bottom of post). After I get more experienced riding motorcycle I enrolled in IRC (Intermediate Riding Course), which I finished without too much issues.
+I never took a basic riding course, and was learning things on my own from books and videos available (semi)publicly on the internet (see [Links](#Links) at the bottom of the post). After I got more experienced rider I enrolled in IRC (Intermediate Riding Course), which I completed without too much hassle.
 
-I did my first trackday shortly after finishing IRC, at Thunderhill East, with Z2 which was an awesome experience which really showed what bike is capable of, and how many I need to learn to become really proficient rider.
+I did my first trackday shortly after finishing IRC, at Thunderhill East with Z2. It was an awesome event which showed what my bike is capable of, and how much I need to learn to become a proficient rider.
 
-Fast forward to 2020, I did participate in AFM racing, only 1 round so far, didn't win anything but, again, was able to learn a lot about capabilities of my motorcycle (CBR600RR '08) and myself. In between of those dates I took an extra Ken Hill's riding school provided by [Carters@TheTrack](https://cartersatthetrack.com/) and practice with mini-bikes on kart tracks.
+Fast forward to 2020, I participated in AFM racing, only 1 round so far, didn't win anything but, again, was able to learn a lot about capabilities of my motorcycle (CBR600RR '08) and myself. In between of those dates I took an extra Ken Hill's riding school provided by [Carters@TheTrack](https://cartersatthetrack.com/) and practiced with mini-bikes on kart tracks.
 
 And that brings me to today, when I decided it is probably a good thing to get an instructor license to pass knowledge that I've acquired through this time and continue to develop further.
 
@@ -100,4 +100,3 @@ Great books in order which I recommend to read for new riders:
 Information sources
 * [Yamaha Chamion Riding School](https://www.youtube.com/user/ridelikeachampion) - although it sounds like racing school, but it's really for every type of riding!
 * [Dave Moss](https://davemosstuning.com/) - a massive amount of information on all aspects of owning the bike. From buying, to riding, adjusting, maintaining, etc.
-
