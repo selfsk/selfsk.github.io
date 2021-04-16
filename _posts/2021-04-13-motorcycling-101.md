@@ -60,10 +60,12 @@ Important part to practice for a new rider is "friction zone" - but I believe by
 
 # Training
 
-Groups of inputs - `speed` and `direction` must be trained separately, at the beginning. Then, it should be trained together - student need to understand how `speed` and `direction` work together, how one affect another. Things like trail braking although is treated as advanced techniques it should be mandatory. 
+Groups of inputs - `speed` and `direction` must be trained separately, at the beginning. Then, it should be trained together - student need to understand how `speed` and `direction` work together, how one affect another. Things like trail braking, although is treated as advanced techniques, it should be mandatory. 
 
-Mental part should be trained along with `speed` and `direction`. Without understanding how motorcycle moves and how to control it, students don't have the tools to train their brains. Now, student start to grasp understanding of how things work - it should help with preparing brain for processing additional data (`moto-self-awareness`).
+`Mental fitness` should be trained along with `speed` and `direction`. Without understanding how motorcycle moves and how to control it, students don't have the tools to train their brains. Now, student start to grasp understanding of how things work - it should help with preparing brain for processing additional data (`moto-self-awareness`).
 
-Training should be going a bit longer, too. I think each day should be focusing on different groups, and only after each group is somewhat familiar to student, we can start combining both, and 3th day and 4th days should be practice of fundamentals with different drills.
+Training should be going a bit longer, too. I think each day should focus on different groups, and only after each group is somewhat familiar to student, we can start combining both, and 3th day and 4th days should be practice of fundamentals with different drills and evaluation. Yes, "evaluation" not test, after course student should get a feedback which can be used for further learning. 
+
+DMV waiver shouldn't an bonus, insurance discounts - absolutely! After this course, student should be able to pass a DMV exam with no problem at all!
 
 Bottom line BRC must be stopped being a factory, or become a factory that should inspire new riders to pursue further learning and practicing. It should be showing what the possibilities are, and where starting rider is and put them on path of self education. Otherwise it must be a very thorough process which couldn't be done in 12 hours.
