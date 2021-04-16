@@ -28,7 +28,7 @@ The goal of any rider (of any level, any type of riding, etc.) is to **STAY UPRI
 
 How are we doing it? By balancing our machine while it moves through space! It is that simple... **NOT!**
 
-For starters, we need to learn inputs that can _control_motion through space. I put those inputs in 2 groups - `speed` and `direction`:
+For starters, we need to learn inputs that can _control_ motion through space. I put those inputs in 2 groups - `speed` and `direction`:
 - `speed`
   * throttle
   * brake
@@ -50,6 +50,7 @@ Complexity of riding motorcycle comes from almost infinite scale of adjustment i
 Simple analogy that I think fits here - you have a ruler with only meter/yard marks - so all that you can work with are things which are about the size of 1 meter/yard - while you're progressing in your moto-self-awareness journey,  that ruler getting replaced with one with 1cm/feet marks, further you developing - it will go even to smaller sizes - 1mm/inch and so on. Going from 1 meter/yard marks to 1cm/feet can be quick, but the finer granularity you want to be with your inputs - the harder it will be to achieve this. 
 
 
+
 #### Note on clutch
 
 I didn't include clutch in any of the groups above because, I don't treat it as a main input, but auxiliary(i.e. electric bikes don't have ones, neither scooters). I suggest to treat clutch as a lever that disconnects engine power from a rear wheel and it's your safety lever if bike scared you!
@@ -57,3 +58,12 @@ I didn't include clutch in any of the groups above because, I don't treat it as 
 Important part to practice for a new rider is "friction zone" - but I believe by doing slow speed drills you will practice it anyway.
 
 
+# Training
+
+Groups of inputs - `speed` and `direction` must be trained separately, at the beginning. Then, it should be trained together - student need to understand how `speed` and `direction` work together, how one affect another. Things like trail braking although is treated as advanced techniques it should be mandatory. 
+
+Mental part should be trained along with `speed` and `direction`. Without understanding how motorcycle moves and how to control it, students don't have the tools to train their brains. Now, student start to grasp understanding of how things work - it should help with preparing brain for processing additional data (`moto-self-awareness`).
+
+Training should be going a bit longer, too. I think each day should be focusing on different groups, and only after each group is somewhat familiar to student, we can start combining both, and 3th day and 4th days should be practice of fundamentals with different drills.
+
+Bottom line BRC must be stopped being a factory, or become a factory that should inspire new riders to pursue further learning and practicing. It should be showing what the possibilities are, and where starting rider is and put them on path of self education. Otherwise it must be a very thorough process which couldn't be done in 12 hours.
