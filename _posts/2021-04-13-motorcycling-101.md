@@ -43,16 +43,16 @@ Riding a motorcycle requires additional processing and analyzing of what you see
 
 It is critical to understand that all groups are intertwined - even if you have a _good_ control over speed and direction, but mental fitness is lacking(you cannot process all the inputs on the same level(i.e. eyes, ears, hands, feet) at the same rate) - it's easy to go over your head! It is true the other way around, your `mental fitness` can be at _good_ level, but speed and/or direction are not. Abrupt(not sudden) inputs are an example of that.
 
-By using combination of these groups we are balancing our machine! **In simpler terms - bike needs to move fowrard to stay upright. As long as a rider controls where and how it goes, and there is a surface to ride on, bike will be upright.**
+By using combination of these groups we are balancing our machine! **In simpler terms - bike needs to move forward to stay upright. As long as a rider controls where and how it goes, and there is a surface to ride on, bike will be upright.**
 
-Complexity of riding motorcycle comes from almost infinite scale of adjustement in each of these groups, and each item in group. It is infinite because as you learn, bar moves ahead too! 
+Complexity of riding motorcycle comes from almost infinite scale of adjustment in each of these groups, and each item in group. It is infinite because as you learn, bar moves ahead too! 
 
 Simple analogy that I think fits here - you have a ruler with only meter/yard marks - so all that you can work with are things which are about the size of 1 meter/yard - while you're progressing in your moto-self-awareness journey,  that ruler getting replaced with one with 1cm/feet marks, further you developing - it will go even to smaller sizes - 1mm/inch and so on. Going from 1 meter/yard marks to 1cm/feet can be quick, but the finer granularity you want to be with your inputs - the harder it will be to achieve this. 
 
 
 #### Note on clutch
 
-I didn't include cluth in any of the groups above because, I don't treat it as a main input, but auxilliary(i.e. electric bikes don't have ones, neither scooters). I suggest to treat cluth as a lever that disconnects engine power from a rear wheel and it's your safety lever if bike scared you!
+I didn't include clutch in any of the groups above because, I don't treat it as a main input, but auxiliary(i.e. electric bikes don't have ones, neither scooters). I suggest to treat clutch as a lever that disconnects engine power from a rear wheel and it's your safety lever if bike scared you!
 
 Important part to practice for a new rider is "friction zone" - but I believe by doing slow speed drills you will practice it anyway.
 
