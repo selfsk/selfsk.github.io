@@ -7,7 +7,7 @@ categories: motorcycles education learning
 
 # 101?
 
-In this post I'm trying to share my vision of "motorcycling 101", or "what I think should be taught to people who start riding motorcycles for the first time". I think current approach to preparing brand new people for riding motorcycles is [somewhat confusing...](/motorcycles/education/learning/2021/03/18/how-i-didnt-become-an-instructor.html). I'm trying to focus on fundamentals, since the lack of focus in that area I noticed in Basic Riding Course.
+In this post I'm trying to share my vision of "motorcycling 101", or "what I think should be taught to people who start riding motorcycles for the first time". I think current approach to preparing brand new people for riding motorcycles is [somewhat confusing...](/motorcycles/education/learning/2021/03/18/how-i-didnt-become-an-instructor.html). I'm trying to focus on fundamentals, since I've noticed the lack of focus in that area in Basic Riding Course.
 
 The basics and foundation of riding a motorcycle is not harder than riding a bicycle. Complexity is coming from each bike's input (things like throttle, brakes, steering, body position) as well as rider's input (like vision, hearing, feeling), each input can be adjusted/processed within a broad spectrum and with different granularity!
 
