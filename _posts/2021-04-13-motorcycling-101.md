@@ -9,7 +9,9 @@ categories: motorcycles education learning
 
 In this post I'm trying to share my vision of "motorcycling 101", or "what I think should be taught to people who start riding motorcycles for the first time". I think current approach to preparing brand new people for riding motorcycles is [somewhat confusing...](/motorcycles/education/learning/2021/03/18/how-i-didnt-become-an-instructor.html). I'm trying to focus on fundamentals, since the lack of focus in that area I noticed in Basic Riding Course.
 
-The basics and foundation of riding a motorcycle is not harder than riding a bicycle. Complexity is coming from each bike's input (things like throttle, brakes, lean angle, steering) as well as rider's input (like vision, hearing, feeling), each can be adjusted within a broad spectrum and with different granularity!
+The basics and foundation of riding a motorcycle is not harder than riding a bicycle. Complexity is coming from each bike's input (things like throttle, brakes, steering, body position) as well as rider's input (like vision, hearing, feeling), each input can be adjusted/processed within a broad spectrum and with different granularity!
+
+I was inspired by work of [Ken Hill](http://khcoaching.com/podcasts/), [Nick Ienatsch](https://ridelikeachampion.com/teams/nick-ienatsch/),[Keith Code](https://www.youtube.com/watch?v=jZ_FOptQB1Q&ab_channel=superbikeschool) and many others, whose work I was able to get a hold on, my personal experiences and understanding of various aspects of riding.
 
 # New rider
 
@@ -64,8 +66,8 @@ Groups of inputs - `speed` and `direction` must be trained separately, at the be
 
 `Mental fitness` should be trained along with `speed` and `direction`. Without understanding how motorcycle moves and how to control it, students don't have the tools to train their brains. Now, student start to grasp understanding of how things work - it should help with preparing brain for processing additional data (`moto-self-awareness`).
 
-Training should be going a bit longer, too. I think each day should focus on different groups, and only after each group is somewhat familiar to student, we can start combining both, and 3th day and 4th days should be practice of fundamentals with different drills and evaluation. Yes, "evaluation" not test, after course student should get a feedback which can be used for further learning. 
+Training should be going a bit longer, too. I think each day should focus on different groups, and only after each group is somewhat familiar to student, we can start combining both, and 3th and 4th days should be practice of fundamentals with different drills and final evaluation. Yes, "evaluation" not a test - after course student should get a feedback, which can be used for further learning.
 
-DMV waiver shouldn't an bonus, insurance discounts - absolutely! After this course, student should be able to pass a DMV exam with no problem at all!
+After this course, student should be able to pass a DMV exam with no problem at all. DMV waiver shouldn't be a bonus, insurance discounts - absolutely!
 
-Bottom line BRC must be stopped being a factory, or become a factory that should inspire new riders to pursue further learning and practicing. It should be showing what the possibilities are, and where starting rider is and put them on path of self education. Otherwise it must be a very thorough process which couldn't be done in 12 hours.
+Bottom line BRC must be stopped being a factory of DMV waivers, and become a factory that should inspire new riders to pursue further learning and practicing. It should be showing what the possibilities are, and where starting rider is and put them on path of self education. Otherwise it must be a very thorough process which couldn't be done in 12 hours.
