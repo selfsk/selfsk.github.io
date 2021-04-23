@@ -41,7 +41,7 @@ For starters, we need to learn inputs that can _control_ motion through space. I
 
 There is one more thing... the most important one - `mental fitness`. 
 
-Riding a motorcycle requires additional processing and analyzing of what you see(most important), hear, feel or even smell. Both input groups are based on that - lack of `mental fitness` will causes problems! Things like target fixation is one of them...
+Riding a motorcycle requires additional processing and analyzing of what you see(most important), hear, feel or even smell. Both input groups are based on that, lack of `mental fitness` will cause problems! Things like target fixation is one of them...
 
 It is critical to understand that all groups are intertwined - even if you have a _good_ control over speed and direction, but mental fitness is lacking(you cannot process all the inputs on the same level(i.e. eyes, ears, hands, feet) at the same rate) - it's easy to go over your head! It is true the other way around, your `mental fitness` can be at _good_ level, but speed and/or direction are not. Abrupt(not sudden) inputs are an example of that.
 
