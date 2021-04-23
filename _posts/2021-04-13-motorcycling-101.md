@@ -45,29 +45,29 @@ Riding a motorcycle requires additional processing and analyzing of what you see
 
 It is critical to understand that all groups are intertwined - even if you have a _good_ control over speed and direction, but mental fitness is lacking(you cannot process all the inputs on the same level(i.e. eyes, ears, hands, feet) at the same rate) - it's easy to go over your head! It is true the other way around, your `mental fitness` can be at _good_ level, but speed and/or direction are not. Abrupt(not sudden) inputs are an example of that.
 
-By using combination of these groups we are balancing our machine! **In simpler terms - bike needs to move forward to stay upright. As long as a rider controls where and how it goes, and there is a surface to ride on, bike will be upright.**
+By using a combination of these groups we are balancing our machine! **In simpler terms - a bike needs to move forward to stay upright. As long as a rider controls where and how it goes, and there is a proper surface to ride on, bike will be upright.**
 
-Complexity of riding motorcycle comes from almost infinite scale of adjustment in each of these groups, and each item in group. It is infinite because as you learn, bar moves ahead too! 
+Complexity of riding motorcycle comes from almost infinite scale of adjustment in each of these groups, and each item in group. It is infinite because as you learn, the bar moves ahead as well! 
 
-Simple analogy that I think fits here - you have a ruler with only meter/yard marks - so all that you can work with are things which are about the size of 1 meter/yard - while you're progressing in your moto-self-awareness journey,  that ruler getting replaced with one with 1cm/feet marks, further you developing - it will go even to smaller sizes - 1mm/inch and so on. Going from 1 meter/yard marks to 1cm/feet can be quick, but the finer granularity you want to be with your inputs - the harder it will be to achieve this. 
+Simple analogy that I think fits here - you have a ruler with only a yard marks - so all that you can work with are things which are about the size of a yard - while you're progressing in your moto-self-awareness journey,  that ruler getting replaced with one with 1 feet marks, further you developing - it will go even to smaller sizes - 1 inch and so on. Going from 1 yard marks to 1 feet can be quick, but the finer granularity you want to be with your inputs - the harder it will be to achieve this. 
 
 
 
 #### Note on clutch
 
-I didn't include clutch in any of the groups above because, I don't treat it as a main input, but auxiliary(i.e. electric bikes don't have ones, neither scooters). I suggest to treat clutch as a lever that disconnects engine power from a rear wheel and it's your safety lever if bike scared you!
+I didn't include clutch in any of the groups above, because I don't treat it as a main input, but auxiliary(i.e. electric bikes don't have ones, neither scooters). I suggest to treat clutch as a lever that disconnects engine power from a rear wheel and also it's your safety lever when bike scares you!
 
 Important part to practice for a new rider is "friction zone" - but I believe by doing slow speed drills you will practice it anyway.
 
 
 # Training
 
-Groups of inputs - `speed` and `direction` must be trained separately, at the beginning. Then, it should be trained together - student need to understand how `speed` and `direction` work together, how one affect another. Things like trail braking, although is treated as advanced techniques, it should be mandatory. 
+Groups of inputs - `speed` and `direction` must be trained separately, at the beginning. Then, it should be trained together - student must understand how `speed` and `direction` work together, how one affects another. Things like trail braking, although is treated as advanced techniques, learning this should be mandatory, in my opinion.
 
-`Mental fitness` should be trained along with `speed` and `direction`. Without understanding how motorcycle moves and how to control it, students don't have the tools to train their brains. Now, student start to grasp understanding of how things work - it should help with preparing brain for processing additional data (`moto-self-awareness`).
+`Mental fitness` should be trained along with `speed` and `direction`. Without understanding how motorcycle moves and how to control it, students don't have the tools to train their brains. Now, student starts to grasp understanding of how things work - it should help with preparing brain for processing additional data (`moto-self-awareness`).
 
-Training should be going a bit longer, too. I think each day should focus on different groups, and only after each group is somewhat familiar to student, we can start combining both, and 3th and 4th days should be practice of fundamentals with different drills and final evaluation. Yes, "evaluation" not a test - after course student should get a feedback, which can be used for further learning.
+Training should be going a bit longer, too. I think each day you should focus on different groups, and only after each group is somewhat familiar to a student, we can start combining both, and 3rd and 4th days should be practice of fundamentals with different drills and final evaluation. Yes, "evaluation", not a test - after course student should get a feedback, which can be used for further learning.
 
-After this course, student should be able to pass a DMV exam with no problem at all. DMV waiver shouldn't be a bonus, insurance discounts - absolutely!
+After this course, a student should be able to pass a DMV exam with no problem at all. DMV waiver shouldn't be a bonus, insurance discounts - absolutely!
 
-Bottom line BRC must be stopped being a factory of DMV waivers, and become a factory that should inspire new riders to pursue further learning and practicing. It should be showing what the possibilities are, and where starting rider is and put them on path of self education. Otherwise it must be a very thorough process which couldn't be done in 12 hours.
+Bottom line BRC must be stopped being a factory of DMV waivers, and become an experience that inspires new riders to pursue learning and practicing further. It should be showing what the possibilities are, where newbie rider is, and put him/her on a path of self education. Otherwise, it must be a very thorough process which couldn't be completed in 12 hours.
